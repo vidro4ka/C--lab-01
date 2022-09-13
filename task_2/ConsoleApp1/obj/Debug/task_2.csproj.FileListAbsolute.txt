@@ -1,0 +1,7 @@
+C:\Users\Yaroslav Dolgov\Documents\STUDY\3 семестр\Алгоритмические языки\task_2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Yaroslav Dolgov\Documents\STUDY\3 семестр\Алгоритмические языки\task_2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Yaroslav Dolgov\Documents\STUDY\3 семестр\Алгоритмические языки\task_2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Yaroslav Dolgov\Documents\STUDY\3 семестр\Алгоритмические языки\task_2\ConsoleApp1\obj\Debug\task_2.csproj.AssemblyReference.cache
+C:\Users\Yaroslav Dolgov\Documents\STUDY\3 семестр\Алгоритмические языки\task_2\ConsoleApp1\obj\Debug\task_2.csproj.CoreCompileInputs.cache
+C:\Users\Yaroslav Dolgov\Documents\STUDY\3 семестр\Алгоритмические языки\task_2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Yaroslav Dolgov\Documents\STUDY\3 семестр\Алгоритмические языки\task_2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
